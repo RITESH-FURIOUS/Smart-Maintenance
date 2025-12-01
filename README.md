@@ -5,19 +5,6 @@ A full-stack smart building maintenance system built using **Angular**, **Node.j
 It enables **Admin** and **Technicians** to manage smart devices (Lights, AC, Sensors) and create maintenance tasks.  
 Designed specifically to align with **Listenlights (P) Ltd.** IoT + Smart Infrastructure domain.
 
-## 📌 Table of Contents
-
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [System Roles](#system-roles)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Usage Instructions](#usage-instructions)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
 ## 🚀 Features
 
 ✔ Secure user login using **JWT Authentication**  
@@ -193,8 +180,3 @@ http://localhost:4200
 ✔ QR code scan for device tracking  
 ✔ Report generation + dashboards  
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
