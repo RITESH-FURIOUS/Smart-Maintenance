@@ -1,9 +1,8 @@
 
-# 🏢 Listenlights Smart Maintenance System
+# 🏢 Smart Maintenance System
 
 A full-stack smart building maintenance system built using **Angular**, **Node.js**, **Express.js**, and **MongoDB**.  
 It enables **Admin** and **Technicians** to manage smart devices (Lights, AC, Sensors) and create maintenance tasks.  
-Designed specifically to align with **Listenlights (P) Ltd.** IoT + Smart Infrastructure domain.
 
 ---
 
